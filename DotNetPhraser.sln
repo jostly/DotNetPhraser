@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phraser", "Phraser\Phraser.csproj", "{8D8A7364-AA9F-455B-85C9-684CF451AB90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhraserTests", "PhraserTests\PhraserTests.csproj", "{35DE728D-5EE2-4F95-B5F7-156249AA2479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D8A7364-AA9F-455B-85C9-684CF451AB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8A7364-AA9F-455B-85C9-684CF451AB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8A7364-AA9F-455B-85C9-684CF451AB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8A7364-AA9F-455B-85C9-684CF451AB90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35DE728D-5EE2-4F95-B5F7-156249AA2479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DE728D-5EE2-4F95-B5F7-156249AA2479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DE728D-5EE2-4F95-B5F7-156249AA2479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DE728D-5EE2-4F95-B5F7-156249AA2479}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
